@@ -1,0 +1,4571 @@
+{
+  "providerName": "CHICO IPTV",
+  "language": "en-US",
+  "lastUpdated": "2017-04-30T18:12:32.125Z",
+  "tvSpecials": [
+    {
+      "id": "20170528",
+      "title": "The Law Of The Harvest",
+      "shortDescription": "Speaker: Richard Smith",
+      "thumbnail": "https://s3.amazonaws.com/hopepoint/Sermon-Stills/the-law-of-the-harvest.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 2796,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/219703471.m3u8?s=a909c6add762c7809037f053d24c72e33b2f372b",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0001",
+      "title": "Chico live tv-1  CBS",
+      "shortDescription": "CH -  1  CBS   Para mas informacion sobre la operacion y clausulas de privacidad consulta nuestra pagina de FB ChicoTv",
+      "thumbnail": "https://i.imgur.com/XL2T7J3.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0002",
+      "title": "Chico live tv-2  NBC",
+      "shortDescription": "CH -  2  NBC   http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8",
+      "thumbnail": "https://i.imgur.com/ZerI7of.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0003",
+      "title": "Chico live tv-3  THE CW",
+      "shortDescription": "CH -  3  THE CW   http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/i9wbkTk.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0004",
+      "title": "Chico live tv-4  MULTIMEDIOS HD",
+      "shortDescription": "CH -  4  MULTIMEDIOS HD   http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8",
+      "thumbnail": "https://i.imgur.com/WXJd3NF.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0005",
+      "title": "Chico live tv-5  CAPITAL",
+      "shortDescription": "CH -  5  CAPITAL   http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8",
+      "thumbnail": "https://i.imgur.com/cWVWWYs.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0006",
+      "title": "Chico live tv-6  NBC 4 WASH DC",
+      "shortDescription": "CH -  6  NBC 4 WASH DC   http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DcO6HbS.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0007",
+      "title": "Chico live tv-7  BLOOMBERG",
+      "shortDescription": "CH -  7  BLOOMBERG   http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
+      "thumbnail": "https://i.imgur.com/hImMQbT.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0008",
+      "title": "Chico live tv-8  TRT",
+      "shortDescription": "CH -  8  TRT   http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8",
+      "thumbnail": "https://i.imgur.com/sxokAWw.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0009",
+      "title": "Chico live tv-9  WGN CHICAGO",
+      "shortDescription": "CH -  9  WGN CHICAGO   http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/aR8uJ8w.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0010",
+      "title": "Chico live tv-10  WEATHER CHANNEL",
+      "shortDescription": "CH -  10  WEATHER CHANNEL   http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
+      "thumbnail": "https://i.imgur.com/jeE02zG.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0011",
+      "title": "Chico live tv-11  NEWS 12 NY",
+      "shortDescription": "CH -  11  NEWS 12 NY   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL ",
+      "thumbnail": "https://i.imgur.com/yJuQoOO.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0012",
+      "title": "Chico live tv-12  TEN HD",
+      "shortDescription": "CH -  12  TEN HD   http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8",
+      "thumbnail": "https://i.imgur.com/1Pg5TYf.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0013",
+      "title": "Chico live tv-13  WPIX",
+      "shortDescription": "CH -  13  WPIX   http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/HCXx3MY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0014",
+      "title": "Chico live tv-14  Discovery Channel",
+      "shortDescription": "CH -  14  Discovery Channel   http://80.80.160.168/live/8/live.m3u8",
+      "thumbnail": "https://i.imgur.com/zAjlYPu.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://80.80.160.168/live/8/live.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0015",
+      "title": "Chico live tv-15  Investigation Discovery",
+      "shortDescription": "CH -  15  Investigation Discovery   http://80.80.160.168/live/5/live.m3u8",
+      "thumbnail": "https://i.imgur.com/S0kTcC1.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://80.80.160.168/live/5/live.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0016",
+      "title": "Chico live tv-16  SafeTV4U2",
+      "shortDescription": "CH -  16  SafeTV4U2   http://18.191.91.130:1935/live/safetv/playlist.m3u8",
+      "thumbnail": "https://i.imgur.com/dTIbVJh.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://18.191.91.130:1935/live/safetv/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0017",
+      "title": "Chico live tv-17  VH1",
+      "shortDescription": "CH -  17  VH1   http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697",
+      "thumbnail": "https://i.imgur.com/WDpb7Oa.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0018",
+      "title": "Chico live tv-18  HBO2",
+      "shortDescription": "CH -  18  HBO2   http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/BZEh8xq.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0019",
+      "title": "Chico live tv-19  MAX PRIME",
+      "shortDescription": "CH -  19  MAX PRIME   http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/a2ERzRA.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0020",
+      "title": "Chico live tv-20  The Weather Channel",
+      "shortDescription": "CH -  20  The Weather Channel   http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
+      "thumbnail": "https://i.imgur.com/jeE02zG.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0021",
+      "title": "Chico live tv-21  Animal Planet",
+      "shortDescription": "CH -  21  Animal Planet   http://80.80.160.168/live/1/live.m3u8",
+      "thumbnail": "https://i.imgur.com/XreuCUF.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://80.80.160.168/live/1/live.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0022",
+      "title": "Chico live tv-22  USA CBS HD",
+      "shortDescription": "CH -  22  USA CBS HD   http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8",
+      "thumbnail": "https://i.imgur.com/XL2T7J3.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0023",
+      "title": "Chico live tv-23  USA NBC HD",
+      "shortDescription": "CH -  23  USA NBC HD   http://161.0.157.5/PLTV/88888888/224/3221227040/01.m3u8",
+      "thumbnail": "https://i.imgur.com/ZerI7of.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227040/01.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0024",
+      "title": "Chico live tv-24  THE CW",
+      "shortDescription": "CH -  24  THE CW   http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/i9wbkTk.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0025",
+      "title": "Chico live tv-25  MIMUSICA HD",
+      "shortDescription": "CH -  25  MIMUSICA HD   http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0026",
+      "title": "Chico live tv-26  NBC 5 CHICAGO",
+      "shortDescription": "CH -  26  NBC 5 CHICAGO   http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/2qt4NsI.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0027",
+      "title": "Chico live tv-27  POWER TV",
+      "shortDescription": "CH -  27  POWER TV   http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0028",
+      "title": "Chico live tv-28  MIMUSICA HD",
+      "shortDescription": "CH -  28  MIMUSICA HD   http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0029",
+      "title": "Chico live tv-29  JSAMIN HD",
+      "shortDescription": "CH -  29  JSAMIN HD   http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0030",
+      "title": "Chico live tv-30  RADIO BRUNO",
+      "shortDescription": "CH -  30  RADIO BRUNO   http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0031",
+      "title": "Chico live tv-31  CNN",
+      "shortDescription": "CH -  31  CNN   https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8 ",
+      "thumbnail": "https://i.imgur.com/0DkcGYX.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0032",
+      "title": "Chico live tv-32  Buzzr",
+      "shortDescription": "CH -  32  Buzzr   https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/6IxG15L.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0033",
+      "title": "Chico live tv-33  Buzzr (Opt-1)",
+      "shortDescription": "CH -  33  Buzzr (Opt-1)   https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8 ",
+      "thumbnail": "https://i.imgur.com/6IxG15L.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0034",
+      "title": "Chico live tv-34  Buzzr (Opt-2)",
+      "shortDescription": "CH -  34  Buzzr (Opt-2)   https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8 ",
+      "thumbnail": "https://i.imgur.com/6IxG15L.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0035",
+      "title": "Chico live tv-35  HBO Zone",
+      "shortDescription": "CH -  35  HBO Zone   http://185.246.209.109:8080/HBO_ZONE/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/HBO_ZONE/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0036",
+      "title": "Chico live tv-36  HBO2 (Opt-2)",
+      "shortDescription": "CH -  36  HBO2 (Opt-2)   http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0037",
+      "title": "Chico live tv-37  HBO2 (Opt-3)",
+      "shortDescription": "CH -  37  HBO2 (Opt-3)   http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0038",
+      "title": "Chico live tv-38  HBO2 (Opt-4)",
+      "shortDescription": "CH -  38  HBO2 (Opt-4)   http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0039",
+      "title": "Chico live tv-39  HBO2 (Opt-5)",
+      "shortDescription": "CH -  39  HBO2 (Opt-5)   http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0040",
+      "title": "Chico live tv-40  HBO2 (Opt-6)",
+      "shortDescription": "CH -  40  HBO2 (Opt-6)   http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8 ",
+      "thumbnail": "https://i.imgur.com/mZYFBAY.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0104",
+      "title": "Chico live tv-41  Boston 25 News (WFXT) (Opt-1)",
+      "shortDescription": "CH -  41  Boston 25 News (WFXT) (Opt-1)   http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/sYDJKdo.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0105",
+      "title": "Chico live tv-42  Boston 25 News (WFXT) (Opt-2)",
+      "shortDescription": "CH -  42  Boston 25 News (WFXT) (Opt-2)   http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/sYDJKdo.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0041",
+      "title": "Chico live tv-43  ABC7 Sarasota (WWSB)",
+      "shortDescription": "CH -  43  ABC7 Sarasota (WWSB)   http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0042",
+      "title": "Chico live tv-44  Action News Jax (WJAX-TV)",
+      "shortDescription": "CH -  44  Action News Jax (WJAX-TV)   http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0043",
+      "title": "Chico live tv-45  Action News Now (KHSL-TV)",
+      "shortDescription": "CH -  45  Action News Now (KHSL-TV)   http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0044",
+      "title": "Chico live tv-46  FOX 10 Phoenix (KSAZ-TV)",
+      "shortDescription": "CH -  46  FOX 10 Phoenix (KSAZ-TV)   http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0045",
+      "title": "Chico live tv-47  FOX 13 Salt Lake City (KSTU)",
+      "shortDescription": "CH -  47  FOX 13 Salt Lake City (KSTU)   http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0046",
+      "title": "Chico live tv-48  FOX 13 Tampa Bay (WTVT)",
+      "shortDescription": "CH -  48  FOX 13 Tampa Bay (WTVT)   http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0047",
+      "title": "Chico live tv-49  FOX 17 West Michigan (WXMI)",
+      "shortDescription": "CH -  49  FOX 17 West Michigan (WXMI)   http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0048",
+      "title": "Chico live tv-50  FOX 2 Detroit (WJBK)",
+      "shortDescription": "CH -  50  FOX 2 Detroit (WJBK)   http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0049",
+      "title": "Chico live tv-51  FOX 32 News (WFLD) (Opt-1)",
+      "shortDescription": "CH -  51  FOX 32 News (WFLD) (Opt-1)   http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0050",
+      "title": "Chico live tv-52  FOX 32 News (WFLD) (Opt-2)",
+      "shortDescription": "CH -  52  FOX 32 News (WFLD) (Opt-2)   http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0051",
+      "title": "Chico live tv-53  FOX 32 News (WFLD) (Opt-3)",
+      "shortDescription": "CH -  53  FOX 32 News (WFLD) (Opt-3)   http://109.236.92.216:9090/CTVNews/tracks-v1a1/mono.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://109.236.92.216:9090/CTVNews/tracks-v1a1/mono.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0052",
+      "title": "Chico live tv-54  FOX 46 Charlotte (WJZY)",
+      "shortDescription": "CH -  54  FOX 46 Charlotte (WJZY)   http://api.new.livestream.com/accounts/6370805/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6370805/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0053",
+      "title": "Chico live tv-55  FOX 5 Atlanta (WAGA-TV)",
+      "shortDescription": "CH -  55  FOX 5 Atlanta (WAGA-TV)   http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0054",
+      "title": "Chico live tv-56  FOX 5 DC (WTTG)",
+      "shortDescription": "CH -  56  FOX 5 DC (WTTG)   http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0055",
+      "title": "Chico live tv-57  FOX 51 (WOGX)",
+      "shortDescription": "CH -  57  FOX 51 (WOGX)   http://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0056",
+      "title": "Chico live tv-58  FOX 54 (WFXG) (Opt-1)",
+      "shortDescription": "CH -  58  FOX 54 (WFXG) (Opt-1)   http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0057",
+      "title": "Chico live tv-59  FOX 54 (WFXG) (Opt-2)",
+      "shortDescription": "CH -  59  FOX 54 (WFXG) (Opt-2)   http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0058",
+      "title": "Chico live tv-60  FOX 8 (WVUE-DT)",
+      "shortDescription": "CH -  60  FOX 8 (WVUE-DT)   http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0059",
+      "title": "Chico live tv-61  FOX 8 News (WJW)",
+      "shortDescription": "CH -  61  FOX 8 News (WJW)   http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0060",
+      "title": "Chico live tv-62  FOX Business Network",
+      "shortDescription": "CH -  62  FOX Business Network   https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0061",
+      "title": "Chico live tv-63  FOX News (Opt-1)",
+      "shortDescription": "CH -  63  FOX News (Opt-1)   http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0062",
+      "title": "Chico live tv-64  FOX News (Opt-2)",
+      "shortDescription": "CH -  64  FOX News (Opt-2)   https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0063",
+      "title": "Chico live tv-65  FOX News (Opt-3)",
+      "shortDescription": "CH -  65  FOX News (Opt-3)   https://1674331492.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://1674331492.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0064",
+      "title": "Chico live tv-66  FOX Sports 1",
+      "shortDescription": "CH -  66  FOX Sports 1   http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/V3JEX3j.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0065",
+      "title": "Chico live tv-67  FOX19 Now (WXIX-TV) (Opt-1)",
+      "shortDescription": "CH -  67  FOX19 Now (WXIX-TV) (Opt-1)   http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0066",
+      "title": "Chico live tv-68  FOX23 News (KOKI) (Opt-1)",
+      "shortDescription": "CH -  68  FOX23 News (KOKI) (Opt-1)   http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0067",
+      "title": "Chico live tv-69  FOX23 News (KOKI) (Opt-2)",
+      "shortDescription": "CH -  69  FOX23 News (KOKI) (Opt-2)   https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0068",
+      "title": "Chico live tv-70  FOX28 Savannah (WTGS)",
+      "shortDescription": "CH -  70  FOX28 Savannah (WTGS)   http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0069",
+      "title": "Chico live tv-71  FOX31 Denver (KDVR)",
+      "shortDescription": "CH -  71  FOX31 Denver (KDVR)   http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0070",
+      "title": "Chico live tv-72  FOX4 News Kansas City (WDAF-TV)",
+      "shortDescription": "CH -  72  FOX4 News Kansas City (WDAF-TV)   http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0071",
+      "title": "Chico live tv-73  FOX40 (KTXL)",
+      "shortDescription": "CH -  73  FOX40 (KTXL)   http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0072",
+      "title": "Chico live tv-74  FOX8 (WGHP)",
+      "shortDescription": "CH -  74  FOX8 (WGHP)   http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/ONIXns7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0073",
+      "title": "Chico live tv-75  7News Boston (WHDH) (Opt-1)",
+      "shortDescription": "CH -  75  7News Boston (WHDH) (Opt-1)   https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0074",
+      "title": "Chico live tv-76  7News Boston (WHDH) (Opt-2)",
+      "shortDescription": "CH -  76  7News Boston (WHDH) (Opt-2)   https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0086",
+      "title": "Chico live tv-77  ABC",
+      "shortDescription": "CH -  77  ABC   http://185.246.209.109:8080/ABC/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/jBcqt6u.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/ABC/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0075",
+      "title": "Chico live tv-78  ME TV",
+      "shortDescription": "CH -  78  ME TV   http://185.246.209.109:8080/ME_TV/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/ME_TV/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0076",
+      "title": "Chico live tv-79  NBA",
+      "shortDescription": "CH -  79  NBA   http://185.246.209.109:8080/NBA9/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/S7Hiiph.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/NBA9/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0077",
+      "title": "Chico live tv-80  NICK JR",
+      "shortDescription": "CH -  80  NICK JR   http://185.246.209.109:8080/NICKJR/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/EHJaZPF.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/NICKJR/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0078",
+      "title": "Chico live tv-81  REVOLT",
+      "shortDescription": "CH -  81  REVOLT   http://185.246.209.109:8080/REVOLT/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/REVOLT/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0079",
+      "title": "Chico live tv-82  SHOWTIME",
+      "shortDescription": "CH -  82  SHOWTIME   http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0080",
+      "title": "Chico live tv-83  SMITHSONIAN",
+      "shortDescription": "CH -  83  SMITHSONIAN   http://185.246.209.109:8080/SMITHSONIAN/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/SMITHSONIAN/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0081",
+      "title": "Chico live tv-84  SYFY",
+      "shortDescription": "CH -  84  SYFY   http://185.246.209.109:8080/SYFY/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/0llmtK7.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/SYFY/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0082",
+      "title": "Chico live tv-85  TCM",
+      "shortDescription": "CH -  85  TCM   http://185.246.209.109:8080/TCM/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/13nBIK6.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/TCM/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0083",
+      "title": "Chico live tv-86  UNIVISION",
+      "shortDescription": "CH -  86  UNIVISION   http://185.246.209.109:8080/UNIVISION/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://185.246.209.109:8080/UNIVISION/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0084",
+      "title": "Chico live tv-87  CW",
+      "shortDescription": "CH -  87  CW   http://190.80.3.28/CW/CW.isml/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://190.80.3.28/CW/CW.isml/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0085",
+      "title": "Chico live tv-88  CW",
+      "shortDescription": "CH -  88  CW   http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0087",
+      "title": "Chico live tv-89  PBS",
+      "shortDescription": "CH -  89  PBS   http://190.80.3.28/PBS/PBS.isml/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://190.80.3.28/PBS/PBS.isml/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0088",
+      "title": "Chico live tv-90  TEST CH",
+      "shortDescription": "CH -  90  TEST CH   http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0089",
+      "title": "Chico live tv-91  TEST CH",
+      "shortDescription": "CH -  91  TEST CH   http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0090",
+      "title": "Chico live tv-92  TEST CH",
+      "shortDescription": "CH -  92  TEST CH   http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0091",
+      "title": "Chico live tv-93  TEST CH",
+      "shortDescription": "CH -  93  TEST CH   http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0092",
+      "title": "Chico live tv-94  SAFE TV",
+      "shortDescription": "CH -  94  SAFE TV   http://18.191.91.130:1935/live/safetv/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://18.191.91.130:1935/live/safetv/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0093",
+      "title": "Chico live tv-95  VICTORY",
+      "shortDescription": "CH -  95  VICTORY   http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0094",
+      "title": "Chico live tv-96  TEST CH",
+      "shortDescription": "CH -  96  TEST CH   http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0095",
+      "title": "Chico live tv-97  TEST CH",
+      "shortDescription": "CH -  97  TEST CH   http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0096",
+      "title": "Chico live tv-98  TEST CH",
+      "shortDescription": "CH -  98  TEST CH   http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0097",
+      "title": "Chico live tv-99  TEST CH",
+      "shortDescription": "CH -  99  TEST CH   http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0098",
+      "title": "Chico live tv-100  TEST CH",
+      "shortDescription": "CH -  100  TEST CH   http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0099",
+      "title": "Chico live tv-101  TEST CH",
+      "shortDescription": "CH -  101  TEST CH   http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0100",
+      "title": "Chico live tv-102  TEST CH",
+      "shortDescription": "CH -  102  TEST CH   http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0101",
+      "title": "Chico live tv-103  TEST CH",
+      "shortDescription": "CH -  103  TEST CH   http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0102",
+      "title": "Chico live tv-104  TEST CH",
+      "shortDescription": "CH -  104  TEST CH   http://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0103",
+      "title": "Chico live tv-105  TEST CH",
+      "shortDescription": "CH -  105  TEST CH   http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0106",
+      "title": "Chico live tv-106  TEST CH",
+      "shortDescription": "CH -  106  TEST CH   http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0107",
+      "title": "Chico live tv-107  TEST CH",
+      "shortDescription": "CH -  107  TEST CH   http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0108",
+      "title": "Chico live tv-108  TEST CH",
+      "shortDescription": "CH -  108  TEST CH   http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0109",
+      "title": "Chico live tv-109  EL SALVADOR",
+      "shortDescription": "CH -  109  EL SALVADOR   http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0110",
+      "title": "Chico live tv-110  EL SALVADOR",
+      "shortDescription": "CH -  110  EL SALVADOR   http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0111",
+      "title": "Chico live tv-111  EL SALVADOR",
+      "shortDescription": "CH -  111  EL SALVADOR   http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0112",
+      "title": "Chico live tv-112  EL SALVADOR",
+      "shortDescription": "CH -  112  EL SALVADOR   http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8 ",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0113",
+      "title": "Chico live tv-113  TEST CH",
+      "shortDescription": "CH -  113  TEST CH   http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/MMSrF81.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdn61.liveonlineservices.com/hls/subrang.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0114",
+      "title": "Chico live tv-114  TEST CH",
+      "shortDescription": "CH -  114  TEST CH   http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0115",
+      "title": "Chico live tv-115  TEST CH",
+      "shortDescription": "CH -  115  TEST CH   http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0116",
+      "title": "Chico live tv-116  TEST CH",
+      "shortDescription": "CH -  116  TEST CH   http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0117",
+      "title": "Chico live tv-117  TEST CH",
+      "shortDescription": "CH -  117  TEST CH   http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0118",
+      "title": "Chico live tv-118  TEST CH",
+      "shortDescription": "CH -  118  TEST CH   http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0119",
+      "title": "Chico live tv-119  TEST CH",
+      "shortDescription": "CH -  119  TEST CH   http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0120",
+      "title": "Chico live tv-120  TEST CH",
+      "shortDescription": "CH -  120  TEST CH   http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0121",
+      "title": "Chico live tv-121  TEST CH",
+      "shortDescription": "CH -  121  TEST CH   http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0122",
+      "title": "Chico live tv-122  TEST CH",
+      "shortDescription": "CH -  122  TEST CH   http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0123",
+      "title": "Chico live tv-123  TEST CH",
+      "shortDescription": "CH -  123  TEST CH   http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0124",
+      "title": "Chico live tv-124  TEST CH",
+      "shortDescription": "CH -  124  TEST CH   http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0125",
+      "title": "Chico live tv-125  TEST CH",
+      "shortDescription": "CH -  125  TEST CH   http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0126",
+      "title": "Chico live tv-126  TEST CH",
+      "shortDescription": "CH -  126  TEST CH   http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0127",
+      "title": "Chico live tv-127  TEST CH",
+      "shortDescription": "CH -  127  TEST CH   http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0128",
+      "title": "Chico live tv-128  TEST CH",
+      "shortDescription": "CH -  128  TEST CH   http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0129",
+      "title": "Chico live tv-129  TEST CH",
+      "shortDescription": "CH -  129  TEST CH   http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0130",
+      "title": "Chico live tv-130  TEST CH",
+      "shortDescription": "CH -  130  TEST CH   http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0131",
+      "title": "Chico live tv-131  TEST CH",
+      "shortDescription": "CH -  131  TEST CH   http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0132",
+      "title": "Chico live tv-132  TEST CH",
+      "shortDescription": "CH -  132  TEST CH   http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0133",
+      "title": "Chico live tv-133  TEST CH",
+      "shortDescription": "CH -  133  TEST CH   http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0134",
+      "title": "Chico live tv-134  TEST CH",
+      "shortDescription": "CH -  134  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0135",
+      "title": "Chico live tv-135  TEST CH",
+      "shortDescription": "CH -  135  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0136",
+      "title": "Chico live tv-136  TEST CH",
+      "shortDescription": "CH -  136  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0137",
+      "title": "Chico live tv-137  TEST CH",
+      "shortDescription": "CH -  137  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0138",
+      "title": "Chico live tv-138  TEST CH",
+      "shortDescription": "CH -  138  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0139",
+      "title": "Chico live tv-139  TEST CH",
+      "shortDescription": "CH -  139  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0140",
+      "title": "Chico live tv-140  TEST CH",
+      "shortDescription": "CH -  140  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0141",
+      "title": "Chico live tv-141  TEST CH",
+      "shortDescription": "CH -  141  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0142",
+      "title": "Chico live tv-142  TEST CH",
+      "shortDescription": "CH -  142  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0143",
+      "title": "Chico live tv-143  TEST CH",
+      "shortDescription": "CH -  143  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0144",
+      "title": "Chico live tv-144  TEST CH",
+      "shortDescription": "CH -  144  TEST CH   http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0145",
+      "title": "Chico live tv-145  TEST CH",
+      "shortDescription": "CH -  145  TEST CH   http://iptv.tapesh.tv/tapesh/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0146",
+      "title": "Chico live tv-146  TEST CH",
+      "shortDescription": "CH -  146  TEST CH   http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0147",
+      "title": "Chico live tv-147  TEST CH",
+      "shortDescription": "CH -  147  TEST CH   http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0148",
+      "title": "Chico live tv-148  TEST CH",
+      "shortDescription": "CH -  148  TEST CH   http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0149",
+      "title": "Chico live tv-149  TEST CH",
+      "shortDescription": "CH -  149  TEST CH   http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0150",
+      "title": "Chico live tv-150  TEST CH",
+      "shortDescription": "CH -  150  TEST CH   http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0151",
+      "title": "Chico live tv-151  TEST CH",
+      "shortDescription": "CH -  151  TEST CH   http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0152",
+      "title": "Chico live tv-152  TEST CH",
+      "shortDescription": "CH -  152  TEST CH   http://ph1.ministeriotv.com:1936/29/stream/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://ph1.ministeriotv.com:1936/29/stream/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0153",
+      "title": "Chico live tv-153  TEST CH",
+      "shortDescription": "CH -  153  TEST CH   http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0154",
+      "title": "Chico live tv-154  TEST CH",
+      "shortDescription": "CH -  154  TEST CH   http://rtmp1.abnsat.com/hls/trinity.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://rtmp1.abnsat.com/hls/trinity.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0155",
+      "title": "Chico live tv-155  TEST CH",
+      "shortDescription": "CH -  155  TEST CH   http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0156",
+      "title": "Chico live tv-156  TEST CH",
+      "shortDescription": "CH -  156  TEST CH   http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0157",
+      "title": "Chico live tv-157  TEST CH",
+      "shortDescription": "CH -  157  TEST CH   http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0158",
+      "title": "Chico live tv-158  TEST CH",
+      "shortDescription": "CH -  158  TEST CH   http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch80/ch80.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch80/ch80.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0159",
+      "title": "Chico live tv-159  TEST CH",
+      "shortDescription": "CH -  159  TEST CH   http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0160",
+      "title": "Chico live tv-160  TEST CH",
+      "shortDescription": "CH -  160  TEST CH   http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0161",
+      "title": "Chico live tv-161  TEST CH",
+      "shortDescription": "CH -  161  TEST CH   http://st2.worldkast.com/8008/8008/chunklist_w2031714912.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://st2.worldkast.com/8008/8008/chunklist_w2031714912.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0162",
+      "title": "Chico live tv-162  TEST CH",
+      "shortDescription": "CH -  162  TEST CH   http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0163",
+      "title": "Chico live tv-163  TEST CH",
+      "shortDescription": "CH -  163  TEST CH   http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0164",
+      "title": "Chico live tv-164  TEST CH",
+      "shortDescription": "CH -  164  TEST CH   http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0165",
+      "title": "Chico live tv-165  TEST CH",
+      "shortDescription": "CH -  165  TEST CH   http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0166",
+      "title": "Chico live tv-166  TEST CH",
+      "shortDescription": "CH -  166  TEST CH   http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0167",
+      "title": "Chico live tv-167  TEST CH",
+      "shortDescription": "CH -  167  TEST CH   http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0168",
+      "title": "Chico live tv-168  TEST CH",
+      "shortDescription": "CH -  168  TEST CH   http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0169",
+      "title": "Chico live tv-169  TEST CH",
+      "shortDescription": "CH -  169  TEST CH   http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C0170",
+      "title": "Chico live tv-170  TEST CH",
+      "shortDescription": "CH -  170  TEST CH   http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8 ",
+      "thumbnail": "https://i.imgur.com/DehOPDQ.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 38000,
+        "videos": [
+          {
+            "url": "http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8 ",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20179999",
+      "title": "The Law Of The Harvest",
+      "shortDescription": "Speaker: Richard Smith",
+      "thumbnail": "https://s3.amazonaws.com/hopepoint/Sermon-Stills/the-law-of-the-harvest.jpg",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 2796,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/219703471.m3u8?s=a909c6add762c7809037f053d24c72e33b2f372b",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "GRUPO 01",
+      "itemIds": [
+        "C0001",
+        "C0002",
+        "C0003",
+        "C0004",
+        "C0005",
+        "C0006",
+        "C0007",
+        "C0008",
+        "C0009",
+        "C0010",
+        "C0011",
+        "C0012",
+        "C0013",
+        "C0014",
+        "C0015",
+        "C0016",
+        "C0017",
+        "C0018",
+        "C0019",
+        "C0020"
+      ]
+    },
+    {
+      "name": "GRUPO 02",
+      "itemIds": [
+        "C0021",
+        "C0022",
+        "C0023",
+        "C0024",
+        "C0025",
+        "C0026",
+        "C0027",
+        "C0028",
+        "C0029",
+        "C0030",
+        "C0031",
+        "C0032",
+        "C0033",
+        "C0034",
+        "C0035",
+        "C0036",
+        "C0037",
+        "C0038",
+        "C0039",
+        "C0040"
+      ]
+    },
+    {
+      "name": "GRUPO 03",
+      "itemIds": [
+        "C0041",
+        "C0042",
+        "C0043",
+        "C0044",
+        "C0045",
+        "C0046",
+        "C0047",
+        "C0048",
+        "C0049",
+        "C0050",
+        "C0051",
+        "C0052",
+        "C0053",
+        "C0054",
+        "C0055",
+        "C0056",
+        "C0057",
+        "C0058",
+        "C0059",
+        "C0060"
+      ]
+    },
+    {
+      "name": "GRUPO 04",
+      "itemIds": [
+        "C0061",
+        "C0062",
+        "C0063",
+        "C0064",
+        "C0065",
+        "C0066",
+        "C0067",
+        "C0068",
+        "C0069",
+        "C0070",
+        "C0071",
+        "C0072",
+        "C0073",
+        "C0074",
+        "C0075",
+        "C0076",
+        "C0077",
+        "C0078",
+        "C0079",
+        "C0080"
+      ]
+    },
+    {
+      "name": "GRUPO 05",
+      "itemIds": [
+        "C0081",
+        "C0082",
+        "C0083",
+        "C0084",
+        "C0085",
+        "C0086",
+        "C0087",
+        "C0088",
+        "C0089",
+        "C0090",
+        "C0091",
+        "C0092",
+        "C0093",
+        "C0094",
+        "C0095",
+        "C0096",
+        "C0097",
+        "C0098",
+        "C0099",
+        "C0100"
+      ]
+    },
+    {
+      "name": "GRUPO 06",
+      "itemIds": [
+        "C0101",
+        "C0102",
+        "C0103",
+        "C0104",
+        "C0105",
+        "C0106",
+        "C0107",
+        "C0108",
+        "C0109",
+        "C0110",
+        "C0111",
+        "C0112",
+        "C0113",
+        "C0114",
+        "C0115",
+        "C0116",
+        "C0117",
+        "C0118",
+        "C0119",
+        "C0120"
+      ]
+    },
+    {
+      "name": "GRUPO 07",
+      "itemIds": [
+        "C0121",
+        "C0122",
+        "C0123",
+        "C0124",
+        "C0125",
+        "C0126",
+        "C0127",
+        "C0128",
+        "C0129",
+        "C0130",
+        "C0131",
+        "C0132",
+        "C0133",
+        "C0134",
+        "C0135",
+        "C0136",
+        "C0137",
+        "C0138",
+        "C0139",
+        "C0140"
+      ]
+    },
+    {
+      "name": "GRUPO 08",
+      "itemIds": [
+        "C0141",
+        "C0142",
+        "C0143",
+        "C0144",
+        "C0145",
+        "C0146",
+        "C0147",
+        "C0148",
+        "C0149",
+        "C0150",
+        "C0151",
+        "C0152",
+        "C0153",
+        "C0154",
+        "C0155",
+        "C0156",
+        "C0157",
+        "C0158",
+        "C0159",
+        "C0160"
+      ]
+    },
+    {
+      "name": "GRUPO 09",
+      "itemIds": [
+        "C0161",
+        "C0162",
+        "C0163",
+        "C0164",
+        "C0165",
+        "C0166",
+        "C0167",
+        "C0168",
+        "C0169",
+        "C0170"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "CHICO LIVE GRUPO 01",
+      "playlistName": "GRUPO 01",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 02",
+      "playlistName": "GRUPO 02",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 03",
+      "playlistName": "GRUPO 03",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 04",
+      "playlistName": "GRUPO 04",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 05",
+      "playlistName": "GRUPO 05",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 06",
+      "playlistName": "GRUPO 06",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 07",
+      "playlistName": "GRUPO 07",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 08",
+      "playlistName": "GRUPO 08",
+      "order": "manual"
+    },
+    {
+      "name": "CHICO LIVE GRUPO 09",
+      "playlistName": "GRUPO 09",
+      "order": "manual"
+    }
+  ]
+}
