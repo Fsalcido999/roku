@@ -15,4 +15,601 @@ http://185.236.229.22:80/rZTtAqkcnzMW/CzwhxlKUgA/18431
 http://185.236.229.22:80/rZTtAqkcnzMW/CzwhxlKUgA/112603
 #EXTINF:-1,US: ABC 7 Denver HD
 http://185.236.229.22:80/rZTtAqkcnzMW/CzwhxlKUgA/112602
-
+#EXTINF:-1,USA NETWORK HD
+http://51.15.0.141:8080/USA_NETWORK/index.m3u8?token=test
+#EXTINF:-1,TSN 1 HD
+http://51.15.0.141:8080/tsn1/index.m3u8?token=test
+#EXTINF:-1,TSN 2
+http://51.15.0.141:8080/tsn2/index.m3u8?token=test
+#EXTINF:-1,TSN 3 HD
+http://51.15.0.141:8080/tsn3/index.m3u8?token=test
+#EXTINF:-1,TSN 4 HD
+http://51.15.0.141:8080/tsn4/index.m3u8?token=test
+#EXTINF:-1,TSN 5 HD
+http://51.15.0.141:8080/tsn5/index.m3u8?token=test
+#EXTINF:-1,TRT1 TR
+http://51.15.0.141:8080/TRT1_TR/index.m3u8?token=test
+#EXTINF:-1,TV8 TR
+http://51.15.0.141:8080/TV8_TR/index.m3u8?token=test
+#EXTINF:-1,Seasons HD
+http://51.15.0.141:8080/seasons/index.m3u8?token=test
+#EXTINF:-1,Polar+ HD
+http://51.15.0.141:8080/polar+/index.m3u8?token=test
+#EXTINF:-1,NRJ 12 HD
+http://51.15.0.141:8080/NRJ_12/index.m3u8?token=test
+#EXTINF:-1,Cine+ Club HD
+http://51.15.0.141:8080/cine+_club/index.m3u8?token=test
+#EXTINF:-1,Canal+ Sport
+http://51.15.0.141:8080/canal+_sport/index.m3u8?token=test
+#EXTINF:-1,Comedie+
+http://51.15.0.141:8080/comedie+/index.m3u8?token=test
+#EXTINF:-1,TFX
+http://51.15.0.141:8080/NT1/index.m3u8?token=test
+#EXTINF:-1,Planete+ CI
+http://51.15.0.141:8080/Planete+CI/index.m3u8?token=test
+#EXTINF:-1,E!
+http://51.15.0.141:8080/e!/index.m3u8?token=test
+#EXTINF:-1,Channel 5 HD
+http://51.15.0.141:8080/Channel_5/index.m3u8?token=test
+#EXTINF:-1,Box Nation
+http://51.15.0.141:8080/box_nation/index.m3u8?token=test
+#EXTINF:-1,BT Sport 2 HD
+http://51.15.0.141:8080/BT_Sport_2_HD/index.m3u8?token=test
+#EXTINF:-1,Piwi HD
+http://51.15.0.141:8080/Piwi/index.m3u8?token=test
+#EXTINF:-1,Disney
+http://51.15.0.141:8080/disney_ch/index.m3u8?token=test
+#EXTINF:-1,Animaux HD
+http://51.15.0.141:8080/animaux/index.m3u8?token=test
+#EXTINF:-1,ITV1
+http://51.15.0.141:8080/ITV1_HD/index.m3u8?token=test
+#EXTINF:-1,ITV3
+http://51.15.0.141:8080/itv_3/index.m3u8?token=test
+#EXTINF:-1,TF1 HD
+http://51.15.0.141:8080/TF1/index.m3u8?token=test
+#EXTINF:-1,Husler HD
+http://51.15.0.141:8080/hustlerhd/index.m3u8?token=test
+#EXTINF:-1,Fox Movies
+http://51.15.0.141:8080/fox_movies/index.m3u8?token=test
+#EXTINF:-1,Aljazeera English
+http://51.15.0.141:8080/Al_Jazeera_English/index.m3u8?token=test
+#EXTINF:-1,Star Cinema 2
+http://51.15.0.141:8080/Star_cinema2/index.m3u8?token=test
+#EXTINF:-1,Comedy Central
+http://51.15.0.141:8080/comedy_central_uk/index.m3u8?token=test
+#EXTINF:-1,BBC1
+http://51.15.0.141:8080/BBC1_HD/index.m3u8?token=test
+#EXTINF:-1,BBC2
+http://51.15.0.141:8080/BBC2_HD/index.m3u8?token=test
+#EXTINF:-1,BBC3
+http://51.15.0.141:8080/BBC3_HD/index.m3u8?token=test
+#EXTINF:-1,CNN
+http://51.15.0.141:8080/cnn_uk/index.m3u8?token=test
+#EXTINF:-1,BBC News
+http://51.15.0.141:8080/bbc_news_uk/index.m3u8?token=test
+#EXTINF:-1,TRT Arabic
+http://51.15.0.141:8080/TRT_Arabic/index.m3u8?token=test
+#EXTINF:-1,DMC
+http://51.15.0.141:8080/DMC/index.m3u8?token=test
+#EXTINF:-1,Mazzika
+http://51.15.0.141:8080/Mazzika/index.m3u8?token=test
+#EXTINF:-1,El Sharq
+http://51.15.0.141:8080/Elsharq/index.m3u8?token=test
+#EXTINF:-1,NBN
+http://51.15.0.141:8080/NBN/index.m3u8?token=test
+#EXTINF:-1,Toros
+http://51.15.0.141:8080/toros/index.m3u8?token=test
+#EXTINF:-1,PNC Food
+http://51.15.0.141:8080/panorama_food/index.m3u8?token=test
+#EXTINF:-1,PNC Drama
+http://51.15.0.141:8080/panorama_drama/index.m3u8?token=test
+#EXTINF:-1,PNC Film
+http://51.15.0.141:8080/panorama_film/index.m3u8?token=test
+#EXTINF:-1,Gold
+http://51.15.0.141:8080/gold_uk/index.m3u8?token=test
+#EXTINF:-1,Dave
+http://51.15.0.141:8080/dave_uk/index.m3u8?token=test
+#EXTINF:-1,ART CINEMA
+http://51.15.0.141:8080/ART_CINEMA/index.m3u8?token=test
+#EXTINF:-1,Abu Dhabi Drama
+http://51.15.0.141:8080/Abu_Dhabi_Drama/index.m3u8?token=test
+#EXTINF:-1,Al Maaref
+http://51.15.0.141:8080/Al_Maaref/index.m3u8?token=test
+#EXTINF:-1,Al Mayadeen
+http://51.15.0.141:8080/Al_Mayadeen/index.m3u8?token=test
+#EXTINF:-1,Amman TV HD
+http://51.15.0.141:8080/Amman_TV/index.m3u8?token=test
+#EXTINF:-1,CBC Drama
+http://51.15.0.141:8080/CBC_Drama/index.m3u8?token=test
+#EXTINF:-1,Alibi
+http://51.15.0.141:8080/alibi_uk/index.m3u8?token=test
+#EXTINF:-1,Trace Urban
+http://51.15.0.141:8080/trace_urban/index.m3u8?token=test
+#EXTINF:-1,ART Aflam 1
+http://51.15.0.141:8080/ART_AFLAM_1/index.m3u8?token=test
+#EXTINF:-1,ART Aflam 2
+http://51.15.0.141:8080/ART_AFLAM_2/index.m3u8?token=test
+#EXTINF:-1,ART Hekayat 1
+http://51.15.0.141:8080/ART_HIKAYAT_1/index.m3u8?token=test
+#EXTINF:-1,ART Hekayat 2
+http://51.15.0.141:8080/ART_HIKAYAT_2/index.m3u8?token=test
+#EXTINF:-1,Wild
+http://51.15.0.141:8080/wild/index.m3u8?token=test
+#EXTINF:-1,USA: 3TV CBS 5 (PHOENIX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32891
+#EXTINF:-1,USA: 3TV | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32892
+#EXTINF:-1,USA: ABC (District of Columbia) | SD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32893
+#EXTINF:-1,USA: ABC 2 (ATLANTA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32894
+#EXTINF:-1,USA: ABC 2 (BALTIMORE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32895
+#EXTINF:-1,USA: ABC 2 (Baton Rouge) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32896
+#EXTINF:-1,USA: ABC 2 (Green Bay) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32897
+#EXTINF:-1,USA: ABC 2 (NASHVILLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32898
+#EXTINF:-1,USA: ABC 2 (PORTLAND) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32899
+#EXTINF:-1,USA: ABC 3 (HARRISBURG) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32900
+#EXTINF:-1,USA: ABC 3 (Illinois) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32901
+#EXTINF:-1,USA: ABC 3 (Pensacola) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32902
+#EXTINF:-1,USA: ABC 3 (Shreveport) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32903
+#EXTINF:-1,USA: ABC 4 (Battle Creek) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32904
+#EXTINF:-1,USA: ABC 4 (CHARLESTON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32905
+#EXTINF:-1,USA: ABC 4 (HONOLULU) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32906
+#EXTINF:-1,USA: ABC 4 (Pittsburgh) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32907
+#EXTINF:-1,USA: ABC 4 (SALT LAKE CITY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32908
+#EXTINF:-1,USA: ABC 4 (SEATTLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32909
+#EXTINF:-1,USA: ABC 5 (BOSTON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32910
+#EXTINF:-1,USA: ABC 5 (Cleveland) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32911
+#EXTINF:-1,USA: ABC 5 (Oklahoma City) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32912
+#EXTINF:-1,USA: ABC 5 (ST. PAUL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32913
+#EXTINF:-1,USA: ABC 6 (Augusta) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32914
+#EXTINF:-1,USA: ABC 6 (Columbus) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32915
+#EXTINF:-1,USA: ABC 6 (Indianapolis) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32916
+#EXTINF:-1,USA: ABC 6 (PHILADELPHIA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32917
+#EXTINF:-1,USA: ABC 7 (ALBUQUERQUE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32918
+#EXTINF:-1,USA: ABC 7 (Buffalo) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32919
+#EXTINF:-1,USA: ABC 7 (CEDAR RAPIDS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32920
+#EXTINF:-1,USA: ABC 7 (Chicago IL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32921
+#EXTINF:-1,USA: ABC 7 (Denver) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32922
+#EXTINF:-1,USA: ABC 7 (Detroit) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32923
+#EXTINF:-1,USA: ABC 7 (El Paso) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32924
+#EXTINF:-1,USA: ABC 7 (FORT MYERS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32925
+#EXTINF:-1,USA: ABC 7 (Los Angeles) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32926
+#EXTINF:-1,USA: ABC 7 (NEW MEXICO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32927
+#EXTINF:-1,USA: ABC 7 (NEW YORK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32928
+#EXTINF:-1,USA: ABC 7 (San Francisco) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32929
+#EXTINF:-1,USA: ABC 7 (Sarasota) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32930
+#EXTINF:-1,USA: ABC 7 (Washington DC) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32931
+#EXTINF:-1,USA: ABC 8 (Charleston) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32932
+#EXTINF:-1,USA: ABC 8 (HARTFORD) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32933
+#EXTINF:-1,USA: ABC 8 (New Haven) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32934
+#EXTINF:-1,USA: ABC 8 (PETERSBURG) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32935
+#EXTINF:-1,USA: ABC 8 (Richmond) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32936
+#EXTINF:-1,USA: ABC 8 (Tulsa) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32937
+#EXTINF:-1,USA: ABC 9 (Charlotte) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32938
+#EXTINF:-1,USA: ABC 9 (Kansas City) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32939
+#EXTINF:-1,USA: ABC 9 (MANCHESTER) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32940
+#EXTINF:-1,USA: ABC 9 (Orlando) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32941
+#EXTINF:-1,USA: ABC 9 (Syracuse) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32942
+#EXTINF:-1,USA: ABC 10 (Albany) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32943
+#EXTINF:-1,USA: ABC 10 (SACRAMENTO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32944
+#EXTINF:-1,USA: ABC 10 (San Diego) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32945
+#EXTINF:-1,USA: ABC 11 (LOUISVILLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32946
+#EXTINF:-1,USA: ABC 11 (Raleigh) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32947
+#EXTINF:-1,USA: ABC 12 (Milwaukee) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32948
+#EXTINF:-1,﻿USA: ABC 12 (San Antonio) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32949
+#EXTINF:-1,USA: ABC 13 (ASHEVILLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32950
+#EXTINF:-1,USA: ABC 13 (Grand Rapids) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32951
+#EXTINF:-1,USA: ABC 13 (HAMPTON ROADS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32952
+#EXTINF:-1,USA: ABC 13 (Houston) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32953
+#EXTINF:-1,USA: ABC 13 (Las Vegas) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32954
+#EXTINF:-1,USA: ABC 13 (LUBBOCK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32955
+#EXTINF:-1,USA: ABC 15 (Phoenix) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32956
+#EXTINF:-1,USA: ABC 17 (Jefferson City) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32957
+#EXTINF:-1,USA: ABC 20 (Gainesville) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32958
+#EXTINF:-1,USA: ABC 20 (SAN FRANCISCO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32959
+#EXTINF:-1,USA: ABC 22 (DAYTON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32960
+#EXTINF:-1,USA: ABC 24 (Austin) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32961
+#EXTINF:-1,USA: ABC 24 (Memphis) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32962
+#EXTINF:-1,USA: ABC 25 (Jacksonville) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32963
+#EXTINF:-1,USA: ABC 25 (ORANGE PARK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32964
+#EXTINF:-1,USA: ABC 27 (HARRISBURG) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32965
+#EXTINF:-1,USA: ABC 27 (Madison) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32966
+#EXTINF:-1,USA: ABC 28 (LUBBOCK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32967
+#EXTINF:-1,USA: ABC 28 (Tampa Bay) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32968
+#EXTINF:-1,USA: ABC 30 (FRESNO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32969
+#EXTINF:-1,USA: ABC 30 (St. Louis) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32970
+#EXTINF:-1,USA: ABC 31 (HUNTSVILLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32971
+#EXTINF:-1,USA: ABC 33 (Kansas City) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32972
+#EXTINF:-1,USA: ABC 36 (LEXINGTON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32973
+#EXTINF:-1,USA: ABC 40/29 (FORT SMITH) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32974
+#EXTINF:-1,USA: ABC 45 (Winston-Salem) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32975
+#EXTINF:-1,USA: ABC 68 (BIRMINGHAM) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32976
+#EXTINF:-1,USA: BEACH TV (FLORIDA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32977
+#EXTINF:-1,USA: BEACH TV (KEY WEST) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32978
+#EXTINF:-1,USA: BEACH TV (MYRTLE BEACH) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32979
+#EXTINF:-1,USA: BEACH TV (PANAMA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32980
+#EXTINF:-1,USA: BUFFALO TV | SD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32981
+#EXTINF:-1,USA: CBS (CAPE GIRARDEAU) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32982
+#EXTINF:-1,USA: CBS (COLORADO SPRINGS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32983
+#EXTINF:-1,USA: CBS (District of Columbia) | SD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32984
+#EXTINF:-1,USA: CBS (MONTEREY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32985
+#EXTINF:-1,USA: CBS 5 (SAN ANTONIO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32986
+#EXTINF:-1,USA: CBS (San Diego CA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32987
+#EXTINF:-1,USA: CBS (STA MARIA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32988
+#EXTINF:-1,USA: CBS (TUCSON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32989
+#EXTINF:-1,USA: CBS 2 (BOISE ID) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32990
+#EXTINF:-1,USA: CBS 2 (CEDAR RAPIDS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32991
+#EXTINF:-1,USA: CBS 2 (Los Angeles) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32992
+#EXTINF:-1,USA: CBS 2 (New York NY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32993
+#EXTINF:-1,USA: CBS 2 (PITTSBURG) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32994
+#EXTINF:-1,USA: CBS 2 (Salt Lake City UT) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32995
+#EXTINF:-1,USA: CBS 2 (Spokane) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32996
+#EXTINF:-1,USA: CBS 3 (BRYAN) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32997
+#EXTINF:-1,USA: CBS 3 (BURLINGTON VT) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32998
+#EXTINF:-1,USA: CBS 3 (Champaign) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/32999
+#EXTINF:-1,USA: CBS 3 (HARTFORD) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33000
+#EXTINF:-1,USA: CBS 3 (KALAMAZOO MI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33001
+#EXTINF:-1,USA: CBS 3 (MADISON WI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33002
+#EXTINF:-1,USA: CBS 3 (PHILADELPHIA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33003
+#EXTINF:-1,USA: CBS 3 (Wilmington) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33004
+#EXTINF:-1,USA: CBS 4 (Buffalo NY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33005
+#EXTINF:-1,USA: CBS 4 (COLOMBUS MS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33006
+#EXTINF:-1,USA: CBS 4 (Denver CO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33007
+#EXTINF:-1,USA: CBS 4 (EL PASO TX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33008
+#EXTINF:-1,USA: CBS 4 (Harlingen TX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33009
+#EXTINF:-1,USA: CBS 4 (LOS ANGELES) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33010
+#EXTINF:-1,USA: CBS 4 (Miami FL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33011
+#EXTINF:-1,USA: CBS 4 (New Orleans LA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33012
+#EXTINF:-1,USA: CBS 4 (ROCK ISLAND) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33013
+#EXTINF:-1,USA: CBS 5 (BANGOR) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33014
+#EXTINF:-1,USA: CBS 5 (CHARLESTON SC) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33015
+#EXTINF:-1,USA: CBS 5 (FLINT MI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33016
+#EXTINF:-1,USA: CBS 5 (GREEN BAY WI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33017
+#EXTINF:-1,USA: CBS 5 (Kansas City) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33018
+#EXTINF:-1,USA: CBS 5 (MOBILE AL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33019
+#EXTINF:-1,USA: CBS 5 (NASHVILLE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33020
+#EXTINF:-1,USA: CBS 5 (PHOENIX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33021
+#EXTINF:-1,USA: CBS 5 (SAN FRANCISCO CA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33022
+#EXTINF:-1,USA: CBS 5 (SAN FRANCISCO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33023
+#EXTINF:-1,USA: CBS 5 (Syracuse NY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33024
+#EXTINF:-1,USA: CBS 6 (ALBANY NY) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33025
+#EXTINF:-1,USA: CBS 6 (LANSING MI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33026
+#EXTINF:-1,USA: CBS 6 (Portland) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33027
+#EXTINF:-1,USA: CBS 6 (Tulsa OK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33028
+#EXTINF:-1,USA: CBS 7 (Las Vegas NV) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33029
+#EXTINF:-1,USA: CBS 7 (Roanoke VA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33030
+#EXTINF:-1,USA: CBS 8 (Des Moines) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33031
+#EXTINF:-1,USA: CBS 8 (LA CROSSE WI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33032
+#EXTINF:-1,USA: CBS 8 (LA CROSSE) | SD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33033
+#EXTINF:-1,USA: CBS 8 (Montgomery) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33034
+#EXTINF:-1,USA: CBS 9 (Cadillac) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33035
+#EXTINF:-1,USA: CBS 9 (CHARLESTON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33036
+#EXTINF:-1,USA: CBS 9 (GREENVILLE NC) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33037
+#EXTINF:-1,USA: CBS 9 (Los Angeles) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33038
+#EXTINF:-1,USA: CBS 9 (Washington DC) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33039
+#EXTINF:-1,USA: CBS 10 (ALTOONA PA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33040
+#EXTINF:-1,USA: CBS 10 (CORPUS CHRISTI) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33041
+#EXTINF:-1,USA: CBS 10 (LAFAYETTE LA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33042
+#EXTINF:-1,USA: CBS 10 (LINCOLN NE) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33043
+#EXTINF:-1,USA: CBS 10 (Springfield) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33044
+#EXTINF:-1,USA: CBS 10 (Tampa FL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33045
+#EXTINF:-1,USA: CBS 10 (WACO TX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33046
+#EXTINF:-1,USA: CBS 11 (Colorado CO) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33047
+#EXTINF:-1,USA: CBS 11 (DALLAS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33048
+#EXTINF:-1,USA: CBS 11 (FORT MYERS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33049
+#EXTINF:-1,USA: CBS 11 (Houston TX) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33050
+#EXTINF:-1,USA: CBS 11 (Little Rock AR) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33051
+#EXTINF:-1,USA: CBS 11 (MADISON) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33052
+#EXTINF:-1,USA: CBS 11 (SAVANNAH GA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33053
+#EXTINF:-1,USA: CBS 11 (Sioux Falls) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33054
+#EXTINF:-1,USA: CBS 11 (SPARTANBURG SC) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33055
+#EXTINF:-1,USA: CBS 11 (TOLEDO OH) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33056
+#EXTINF:-1,USA: CBS 11 (Tri Cities) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33057
+#EXTINF:-1,USA: CBS 12 (Augusta GA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33058
+#EXTINF:-1,USA: CBS 12 (Chicago IL) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33059
+#EXTINF:-1,USA: CBS 12 (Cincinnati OH) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33060
+#EXTINF:-1,USA: CBS 12 (E Providence) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33061
+#EXTINF:-1,USA: CBS 12 (Jackson MS) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33062
+#EXTINF:-1,USA: CBS 12 (LITTLE ROCK) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33063
+#EXTINF:-1,USA: CBS 12 (SANTA MARIA CA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33064
+#EXTINF:-1,USA: CBS 12 (Shreveport LA) | HD
+http://ksportiptv.com:88/AB1mtbWeT7/vjzoF9nU6H/33065
+#EXTINF:-1,USA: HBO HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58589
+#EXTINF:-1,USA: HBO 2 HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58590
+#EXTINF:-1,USA: HBO ZONE HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58591
+#EXTINF:-1,USA: HBO SIGNATURE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58592
+#EXTINF:-1,USA: HBO FAMILY HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58593
+#EXTINF:-1,USA: HBO COMEDY HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58594
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58595
+#EXTINF:-1,USA: HALLMARK HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58596
+#EXTINF:-1,USA: HALLMARK DRAMA
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58597
+#EXTINF:-1,USA: STARZ
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58598
+#EXTINF:-1,USA: STARZ IN BLACK
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58599
+#EXTINF:-1,USA: STARZ ENCORE WESTERNS
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58600
+#EXTINF:-1,USA: STARZ ENCORE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58601
+#EXTINF:-1,USA: STARZ EDGE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58602
+#EXTINF:-1,USA: STARZ COMEDY
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58603
+#EXTINF:-1,USA: EPIX HITS
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58604
+#EXTINF:-1,USA: EPIX HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58605
+#EXTINF:-1,USA: EPIX 2
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58606
+#EXTINF:-1,USA: CINEMAXX MORE MAXX
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58607
+#EXTINF:-1,USA: CINEMAX THRILLERMAX HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58608
+#EXTINF:-1,USA: CINEMAX OUTER MAX
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58609
+#EXTINF:-1,USA: CINEMAX MOVIEMAX
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58610
+#EXTINF:-1,USA: CINEMAX EAST
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58611
+#EXTINF:-1,USA: CINEMAX ACTION MAX EAST
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58612
+#EXTINF:-1,USA: WGN AMERICA
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58613
+#EXTINF:-1,USA: WE TV
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58614
+#EXTINF:-1,USA: VICELAND
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58615
+#EXTINF:-1,USA: USA NETWORK
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58616
+#EXTINF:-1,USA: UNIVISION TDN
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58617
+#EXTINF:-1,USA: UNIVISION
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58618
+#EXTINF:-1,USA: UNIVERSAL HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58619
+#EXTINF:-1,USA: UNIMAS
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58620
+#EXTINF:-1,USA: TVONE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58621
+#EXTINF:-1,USA: TV LAND HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58622
+#EXTINF:-1,USA: TRU TV
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58623
+#EXTINF:-1,USA: TNT
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58624
+#EXTINF:-1,USA: TLC CHANNEL
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58625
+#EXTINF:-1,USA: THE CW HD CHICAGO
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58626
+#EXTINF:-1,USA: THE CW PIX 11
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58627
+#EXTINF:-1,USA: TELEMUNDO
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58628
+#EXTINF:-1,USA: TCM
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58629
+#EXTINF:-1,USA: TBS
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58630
+#EXTINF:-1,USA: TBN TRINITY BROADCASTING NETWORK
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58631
+#EXTINF:-1,USA: SYFY
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58632
+#EXTINF:-1,USA: SUNDANCE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58633
+#EXTINF:-1,USA: SPIKE/PARAMOUNT
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58634
+#EXTINF:-1,USA: SMITHSONIAN CHANNEL
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58635
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58636
+#EXTINF:-1,USA: SHOWTIME HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58637
+#EXTINF:-1,USA: SHOWTIME EXTREME
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58638
+#EXTINF:-1,USA: SHOWTIME 2
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58639
+#EXTINF:-1,USA: REVOLT
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58640
+#EXTINF:-1,USA: REELZ
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58641
+#EXTINF:-1,USA: RED BULL TV
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58642
+#EXTINF:-1,USA: QVC
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58643
+#EXTINF:-1,USA: PURSUIT CHANNEL
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58644
+#EXTINF:-1,USA: POP
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58645
+#EXTINF:-1,USA: OXYGEN
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58646
+#EXTINF:-1,USA: OWN NETWORK HD
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58647
+#EXTINF:-1,USA: OVATION
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58648
+#EXTINF:-1,USA: NBC UNIVERSO
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58649
+#EXTINF:-1,USA: NBC 5
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58650
+#EXTINF:-1,USA: NBC 4 NY
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58651
+#EXTINF:-1,USA: MY 9
+http://iptvclub.live:25461/FnP9scZerLk8SpZ/acuVnbx5OEzlFZf/58652
