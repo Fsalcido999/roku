@@ -4955,3 +4955,2003 @@ https://goo.gl/sFaEVq
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
 #EXTINF:-1 ,Chileiptv:Genial Tv
 http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) hbo2 dual (eng esp) www.listaiptv.org
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-logo=”http://puu.sh/mb4wQ/6cd02167d4.png” group-title=”CINE”, (ONLINE) Fox Cinema www.listaiptv.org
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/fighttime.png” group-title=”Deportes”, (ONLINE) Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/x5jNF2N.png” group-title=”Deportes”, (ONLINE) MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/Kkj5IF9.png” group-title=”Deportes”, (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif” group-title=”CINE”, (ONLINE) HBO 2 www.listaiptv.org
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CARTOON NETWORK www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MAXPRIME www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) UNIVERSALCH www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) fox premium comedy (eng) www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESPN 2 www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Animal Planet www.listaiptv.org
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 tvg-logo=”http://glamorouspaper.com/wp-content/uploads/2015/01/1280px-Bravo_TV.svg1_-e1421734684867.png” group-title=”USA TV”, (ONLINE) BRAVO
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+#EXTINF:-1 tvg-logo=”https://pbs.twimg.com/profile_images/468743413148307456/pPQ4QTwi.jpeg” group-title=”USA TV”, (ONLINE) CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1 tvg-logo=”http://www.catchuk.org/wp-content/uploads/2016/07/Catch-Finals-FULL-COLOUR.png” group-title=”USA TV”, (ONLINE) CATCH 2
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:-1 tvg-logo=”https://stluciatimes.com/wp-content/uploads/2015/11/Flow_Sports_logo-770×470.jpg” group-title=”USA TV”, (ONLINE) FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-logo=”https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png” group-title=”USA”, (DOUBTFUL) CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HBO 2 International
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELE RED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEVER
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FORO TV2 720
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL 10 CHETUMAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MILENIO TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DW ESP
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEPIN HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WILLAX TV PERU
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) EL GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL VASCO ESP
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Nextv | SD
+http://198.1.117.5:1935/live/livestream/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 1 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN 2 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) REDBULL INGLES
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RETRO MUCIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NC+ MUSICA
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) INFANTILES:Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) INFANTILES:AnimeXtv
+http://locomotiontv.com/envivo/test/animextv_alpha_131017.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MODA:HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CULTURA:NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CULTURA:NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) NOTICIAS:CGTN 2
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) NOTICIAS:CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LATINOS:Canal Trece
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CHILE:Tv Senado 1 HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CHILE:Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal 2 Telpin Tv
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Litus Tv
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) COLOMBIA:Canal Capital HD
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:Willax
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:Multimedios
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:VTV HD
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Pandero Music
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Pandero Music Chile
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:MC Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSICA:Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Videomix:SheepMix
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Videomix:Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Videomix:Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Videomix:Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Videomix:Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Videomix:Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) -RECITALES-
+https://ia601509.us.archive.org/18/items/Fredniza17concert1/fredniza17.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RADIOTV:Radio Futuro Tv
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RADIOTV:Radio Zero Tv
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RADIOTV:Radio Polar Tv
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RADIOTV:Power HD Argentina
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LOGOS TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) DJING
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) M2OTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) GOLDEN PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEMICRO
+http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png”,TELEMICRO
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Telemicro Canal 5*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) telemundo
+http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200×200.png”
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Times Now
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tivikom Ulan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tjumenskoe Vremja
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TLX HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TLX TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tochka TV (Opt-1)
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Trentino TV (Opt-1)
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tropicales
+http://i.imgur.com/BTiGp2B.png?tecnotv”,Tropicales
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) dxtv
+http://186.33.227.198/DXTV/smil:DXTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL 2
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL 4
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ATVHD
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sky
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:THE EVIL WITHIN (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:THE MINE (2017)
+http://bit.ly/THEMINE
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ESTRENOS:Sand Castle (2017)
+http://bit.ly/MRAQCASTI
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LA LEYENDA DE LA NAHUALA
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CASPER
+https://ia800809.us.archive.org/12/items/casper_201709/casper.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TODO PODEROSO
+https://ia800808.us.archive.org/5/items/TodoPoderoso_201709/todo%20poderoso.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VIRAL
+https://ia600805.us.archive.org/13/items/viral_201709/viral.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio LaZona
+http://17833.live.streamtheworld.com/RADIO_LAZONA_SC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVN Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RAINEWS24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Channel NEWS Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BBC Arabic Televison
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) La Fuerza De La Ilusion
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Cuando nos Conocimos
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) 0182268_AL_.jpg” Nosotros Los Nobles | SRREGIO.NET
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) The Cloverfield Paradox
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Terminus
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Deadpool
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Intensamente | SRREGIO.NET
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) JIGSAW VIII | SRREGIO.NET
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Redada Asesina | SRREGIO.NET
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) THE MINE (2017)
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) LA MINA (2017)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Sandy Wexler HD(2017) (Dual Audio)
+https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) PelixMax 1: El Mal Dentro (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Chucky El Muñeco Diabolico (TERROR)
+https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Chucky El Muñeco Diabolico II (TERROR)
+https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) VTV Aconcagua
+http://bit.ly/2CYZMCA
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PAT (La Paz)
+http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PAT (Sta Cruz)
+http://192.99.38.174:1935/patbolivia/patsantacruz/chunklist_w1240338700.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) 49 TV
+http://bit.ly/2CZmRFb
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) EXTREMADURA TV
+http://bit.ly/2CLkNU9
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) LEVANTE TV
+http://bit.ly/2qvO4N8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Power HD
+http://bit.ly/2AypCug
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Telpin
+http://bit.ly/2CAbRwV
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) 324
+http://bit.ly/2CNMRXj
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) TV3
+http://bit.ly/2m2SoP8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 8 Italia
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra Capulina 1969
+https://archive.org/download/sanca69/sanca69.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra el Baron Brakola 1967
+https://archive.org/download/sanbabra67/sanbabra67.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo y los Profanadores de Tumbas 1966
+https://archive.org/download/saneses66/sanprotu66.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MULTIVICION
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w2113014872.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal Provincial San Miguel
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTN NEUQUEN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PortalFoxMix Tv En Vivo Online
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal Local » El popular
+http://186.0.180.11:1935/festival/mp4:festival/chunklist_w2052245235.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Uestv
+http://cl.origin.grupoz.cl/uestv/live/chunklist_w694016780.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTN TV
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) RADIO LA SALADA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0002
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Holvoet
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CAMPUS
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) GARAGE TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1771974564_b446000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) GULLI
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio101=48000-video=200000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CAPITAL 21 CDMX
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) EXTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) T V3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) The Voice
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) France24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 8 MONTBLANC
+http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Eurosport 2 HD
+http://n-0-130.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport2_hd_1/1713/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TSN
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Visit-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Movies: La gran apuesta – The Big short 2015
+https://www.vidio.com/videos/1230290/vjs_playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Runway Fashion
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Melody Channel HD
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NRJ HITS TV Live
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) U TV Live
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Zero Tv
+http://unlimited5-cl.dps.live/zerotv/zerotv.smil/zerotv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Camila Tv
+http://190.107.176.55:1935/live/archi-camila/chunklist_w1113935567.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Hotmixradio 80´S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Desierto de Atacama TV Atacama
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Cappissima Multimedial Arica
+http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Holvoet Copiapo
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2//livestream1/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VTV HD
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVO San Vicente de tagua Tagua
+http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Campus Tv Talca
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Ufrovision Temuco
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sobrenatural Tv
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tv Cret
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BYU Televisi0n
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BYU Televisi0n Latino
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SBT PE Interior
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBN News
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4×3-1-a/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Buffalo Gov’t TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rye TV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4×3-1-a/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Greenbelt Municipal Access TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16×9-1-b/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16×9-1-a/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DBTV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4×3-1-a/chucklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Assemblee Nationale du Quebec (French)
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal Savoir (French)
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBC Radio One
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBC Radio 2
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CTV News Live Events 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CTV News Live Events 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CTV News Live Events 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CTV News Live Events 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTE Jr.
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Allgau TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HR Fernsehen
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rheinmain TV
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Touring Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTL
+http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Omroep West
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTV Rijnmond
+http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 24 Corren
+http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 26*
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) WORO-TV Teleoro Canal 13*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Azteca
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Impact
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RZD TV
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Moya Planeta
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 112 Ukraine
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ATR (Crimea)
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Pro TV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Duga
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BN TV
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 24 Riga TV
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tallinna TV
+http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV 8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Nitricka
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Digi 24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) U TV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 4E TV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kontra
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NETV (CA)
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sigma TV (Greek)
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRT 1 (Turkish)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Hidabroot TV
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Knesset Channel
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 9x Jalwa
+http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABP Ananda
+http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ET Now
+http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Raagam Radio
+http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VoA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ~ Arabic News ~
+http://192.99.35.215:5109/stream
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Aqsa
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Saudi 1
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Saudi 2 [Off]
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Saudi Documentary
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Masdar TV
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Ajyal TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Dubai TV*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sama Dubai*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 1*
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV 1*
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV 2
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV 2*
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KTV Al Majlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RTV
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Insan TV [Off]
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) China Business Network
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SET TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ~ Adult Swim ~
+http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DC Eagle Cam
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Ft. Lauderdale Marina
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NYC – Charging Bull
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NYC – High Line
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Toronto – CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Toronto – CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ~ World News ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) iHeart 80s Radio
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Z100 Radio
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Nickeloden Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARG CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Augsburg TV
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Brazil 4 FTA
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Carina TV
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Czwolka(Poland)
+http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Das Erste
+http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Das Erste (Germany)
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Daystar
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle (DE)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle (Eng)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle (USA)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Djing Dance Floor Music
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Djing Hits
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) France 24 (EN)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Grand Lille TV
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HIT Channel (Ru)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) hr (Ger)
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) IRC TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Israel 2 FTA
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) JOJ Family
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) JuCeTV US
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kontra Channel (Gr)
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Love World TV
+http://154.obj.netromedia.net:80/LoveWorldtv/LoveWorldtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Polskie Radio 24 WEB
+http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rai 5
+http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RE TV (Latv)
+http://edge-telia2.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Russia 8 FTA
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sfera TV (Pol)
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SKY TG24 Italy
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Smile of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sonus FM
+http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TSN 2 (It)
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TSN Tele Sondrio News (It)
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV 10 Sweden
+http://cdn-kanal10.crossnet.net/kanal10//mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Tv Aktuelle DE
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Oberfranken DE
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV TRWAM
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Latinos:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Latinos.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:CBN News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TANGO ARMGENITA
+http://radios.argentina.fm:9270/stream
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) QUIMBAYA ST
+http://195.154.133.107:8396/;
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) RUMBA ST B0G
+http://live4.rcnmundo.com/rumba.mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 24 Horas [SD]
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Poder Judicial TV [HD]
+http://unlimited2-cl.digitalproserver.com/judicial2/judicial2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Kino (miercoles y domingo) [SD]
+http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Umag TV [SD] (Punta Arenas)
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VTV Viña del Mar [HD]
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Multimedios Monterrey [SD]
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NHK World [HD]
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Deutsche Welle Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Imagina (88.1 FM)
+http://14003.live.streamtheworld.com/IMAGINA_SC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Bio Bio Temuco (88.1 FM Temuco)
+http://ice.dallas.digitalproserver.com/biotemu
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Concierto (88.5 FM)
+http://17833.live.streamtheworld.com/CONCIERTO_SC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FM OK (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FM Mas (89.1 Arica)
+http://cast.radioservicios.cl:8026/fmmas
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Mirador (90.9 FM Lautaro)
+http://demo.dyndns.biz:8016/;
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Cariñosa (92.1 FM)(1)
+http://stream5.eltelon.com/carinosa-chillan.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Primavera FM (93.5 FM Arica)
+http://cast.radioservicios.cl:9350/web
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Genesis (94.1 FM Andacollo)
+http://stream5.eltelon.com/genesis-andacollo.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Universitaria de la Serena (94.5 FM)
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Universidad de Tarapaca (95.9 FM Arica)
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Uno (97.1 FM)
+http://14073.live.streamtheworld.com/RADIO_UNO_SC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Sol (97.7 FM Antofagasta)(Alt)
+http://stream5.eltelon.com/sol-radio.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Marcela (99.1 FM Huasco)
+http://stream5.eltelon.com/archi-marcela.aac?type=.flv
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sonar (105.3)
+http://mp3.sonarfm.cl/;
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Nativa (106.5 FM Lumaco)
+http://stream5.eltelon.com/nativa.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Plus FM (106.9 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Candelaria (106.9 FM Tierra Amarilla)
+http://stream5.eltelon.com/candelaria.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Creaciones (107.5 FM Temuco)
+http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU Radio
+http://live-origin.us.niu.cl/niu_radio.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU POP
+http://live-origin.us.niu.cl/niu_pop.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU Indie
+http://live-origin.us.niu.cl/niu_indie.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU Rock
+http://live-origin.us.niu.cl/niu_rock.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU CL
+http://live-origin.us.niu.cl/niu_cl.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NIU 90s
+http://live-origin.us.niu.cl/niu_90s.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Candela FM (Online)
+http://tunein.digitalproserver.com/candelabb.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Anglo Latina (Online)
+http://streaming.radioanglolatina.com:8012/;
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Radio Siente (Online – Arica)
+http://radio1.us.mediastre.am/siente.aac
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Digital 15
+http://bit.ly/2CLgJ6u
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Toonami
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ABC 7 WWSB Sarasota
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Metro Cable Network Channel 6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Rev’n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TDN SPORT
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) SPECTRE
+https://goo.gl/3KGMLf
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/H1AFRJh.png” group-title=”MEXICO”, (ONLINE) RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) LATINO:CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ENTRETENIMIENTO:Canal 3 (Argentina)
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ENTRETENIMIENTO:TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) GOLDEN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ENTRETENIMIENTO 2:FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL CAPITAL
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CDO BASICO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CALLE 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:TVE Rio Grande do Sul (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:Teleformula (New)
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) UN3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ST Santa Fe:5RTv – CTV – Recreo – ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ME Mendoza:Acequia – 29.1TV – Mendoza TV – ME Mendoza
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) AR:Play – 98.1 TV – Marcos Juarez – CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) 5RTv RECREO SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) CANAL 2 de Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:Radio San Borja 91.1 FM Lima
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://bit.ly/2wZc4t9″ group-title=”PELICULAS”, (DOUBTFUL) Sandy Wexler (2017)
+http://bit.ly/2wVc9yV
+#EXTINF:-1 tvg-logo=”https://goo.gl/DKMkuk” group-title=”ESTRENOS”, (DOUBTFUL) Chucky El Muñeco Diabolico II (TERROR)
+http://bit.ly/MRAQCCHUK2
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo=”https://goo.gl/DKMkuk” group-title=”ESTRENOS”, (DOUBTFUL) ANGRY BIRDS
+http://iptvperu@goo.gl/3KGMLf
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) INFO:+ Free IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) INFO:= July.27.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) WORLD NEWS:CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) WORLD NEWS:France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Beach TV – 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Beach TV – Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Beach TV – Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:CNBC (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:DPAN.TV
+https://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Sports Channels:ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA:QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA LOCAL:News 12 (Long Island – Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA LOCAL:News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA LOCAL:News 12 (Connecticut – Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA LOCAL:News 12 (New York City – Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) USA LOCAL:News 12 (New Jersey – Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANADA:CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANADA:CPAC Francais
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPAIN:Canal Parlamento
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPAIN:TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPAIN:TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPAIN:Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CHILE:Trailer TV Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) ECUADOR:Centro
+http://tvpremiumhd.club/lista-gratuita/195925/tv/live.php?id=ott.streann.com/loadbalancer/services/public/channels-
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) COLOMBIA:Son Popular
+http://tvpremiumhd.club/lista-gratuita/195925/tv/live.php?id=66.240.236.25/hls-
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PERU:Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) COSTA RICA:Radio 88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) HONDURAS:TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) a Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo=”https://cdn.firstonetv.eu/images/logos/ua/HDFL.png” group-title=”MODA”, (ONLINE) HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/C6kAEvl.png” group-title=”CHILE”, (ONLINE) TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/L1AkNUo.jpg” group-title=”CHILE”, (ONLINE) VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png” group-title=”CHILE”, (ONLINE) TVN SERVICIOS 3
+http://mdstrm.com/live-stream-playlist/5a0471c2f8692a092d436768.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png” group-title=”CHILE”, (ONLINE) TVN SERVICIOS 4
+http://mdstrm.com/live-stream-playlist/5a047aaeb9d0b50a8d1c36a6.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f8/Tvn.png” group-title=”CHILE”, (ONLINE) TVN SERVICIOS 5
+http://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-logo=”http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png” group-title=”MUSICA”, (ONLINE) RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Animation
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Classic
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Electro Rock
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing French touch
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Karaoke
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing TV
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo=”http://logo.fight-show.ru/logos/source/c01.jpg” group-title=”MUSICA”, (DOUBTFUL) Djing Underground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/MCGNAMK.png” group-title=”MUSICA”, (ONLINE) Music Choice | HD
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5muDweJ.png” group-title=”RADIOTV”, (ONLINE) Maxima Radio y Videos
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg” group-title=”RADIOTV”, (ONLINE) AE Radio Tv
+http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
+#EXTINF:-1 tvg-logo=”http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png” group-title=”RADIOTV”, (ONLINE) Radio Camila Tv
+http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”RADIOTV”, (ONLINE) Musica 80
+https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”RADIOTV”, (ONLINE) RADIO STEFANIA FM
+https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://cdn-profiles.tunein.com/s124276/images/logod.png” group-title=”RADIOTV”, (ONLINE) Antena Uno Ecuador
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/tio3Wpw.png” group-title=”ESPAÑA”, (ONLINE) 324 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/LU2WQFP.jpg” group-title=”ARGENTINA”, (ONLINE) Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/TgSeikY.png” group-title=”HONDURAS”, (ONLINE) TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Channels”, (ONLINE) CHV HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/l2O0fY1.png” group-title=”USA”, (ONLINE) Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-logo=”https://myescambia.com/favicon.png” group-title=”USA”, (ONLINE) Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1 tvg-logo=”http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png” group-title=”USA”, (ONLINE) ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png” group-title=”USA”, (ONLINE) Evine
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:-1 tvg-logo=”https://www.newmediafilmfestival.com/img/hbo.png” group-title=”USA”, (ONLINE) HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 tvg-logo=”http://www.firstonetv.net/images/logos/si/HBO2.png” group-title=”USA”, (ONLINE) HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/DMQFY0I.jpg” group-title=”USA”, (ONLINE) LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/SC5nyyL.png” group-title=”USA”, (ONLINE) NWCT 12 Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/1iszbIx.jpg” group-title=”USA”, (ONLINE) Raleigh Television Network
+http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/G4C6z9h.jpg” group-title=”USA”, (ONLINE) SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png” group-title=”USA”, (ONLINE) UALR University TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png” group-title=”USA”, (ONLINE) WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://brannansappliance.com/images/cbc-tv.png” group-title=”CANADA”, (ONLINE) CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/j55hDLp.png” group-title=”UK”, (ONLINE) France 24 English (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png” group-title=”UK”, (ONLINE) Gemporia
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/A6CDOD3.jpg” group-title=”UK”, (ONLINE) QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/A6CDOD3.jpg” group-title=”UK”, (ONLINE) QVC UK +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/A6CDOD3.jpg” group-title=”UK”, (ONLINE) QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/A6CDOD3.jpg” group-title=”UK”, (ONLINE) QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/A6CDOD3.jpg” group-title=”UK”, (ONLINE) QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”AUSTRALIA”, (ONLINE) Bloomberg TV
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/RURzxJj.png” group-title=”ST KITTS”, (ONLINE) ZIZ
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://images.live-stream.tv/picons/br.png” group-title=”GERMANY”, (DOUBTFUL) BR Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-logo=”http://images.live-stream.tv/picons/br.png” group-title=”GERMANY”, (DOUBTFUL) BR Sued
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/7wABSuo.png” group-title=”GERMANY”, (DOUBTFUL) Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/7wABSuo.png” group-title=”GERMANY”, (DOUBTFUL) Das Erste Int’l
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:-1 tvg-logo=”http://i65.tinypic.com/wixedx.jpg” group-title=”GERMANY”, (ONLINE) Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png” group-title=”AUSTRIA”, (ONLINE) Oe24
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/tRonseR.png” group-title=”BELGIUM”, (ONLINE) NRJ Hits TV (Opt-1)
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/tRonseR.png” group-title=”BELGIUM”, (ONLINE) NRJ Hits TV (Opt-2)
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/xsspfDW.png” group-title=”BELGIUM”, (ONLINE) Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo=”http://i65.tinypic.com/990umt.jpg” group-title=”FRANCE”, (ONLINE) DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo=”http://i67.tinypic.com/1sxgr6.jpg” group-title=”FRANCE”, (ONLINE) DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo=”http://i67.tinypic.com/jfc9hk.jpg” group-title=”FRANCE”, (ONLINE) DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo=”http://i66.tinypic.com/14loi6w.jpg” group-title=”FRANCE”, (ONLINE) DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo=”https://soombo.com/assets/images/100_1447183258.png” group-title=”FRANCE”, (DOUBTFUL) DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-logo=”http://i63.tinypic.com/av505u.jpg” group-title=”FRANCE”, (ONLINE) DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo=”http://i64.tinypic.com/efo41x.jpg” group-title=”FRANCE”, (ONLINE) DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo=”http://i68.tinypic.com/2ztc02c.jpg” group-title=”FRANCE”, (ONLINE) DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/j55hDLp.png” group-title=”FRANCE”, (ONLINE) France 24 (Opt-1)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/HFyrVaS.png” group-title=”HAITI”, (ONLINE) Radio TeleBoston (USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.edentv.it/wp-content/uploads/2016/10/eden86_logo.png” group-title=”ITALY”, (ONLINE) Eden TV 86
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png” group-title=”ITALY”, (ONLINE) ETV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1 tvg-logo=”https://mobile.ilmeteo.it/img/app-plus-icon-2.png” group-title=”ITALY”, (DOUBTFUL) Il Meteo.It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1 tvg-logo=”https://mobile.ilmeteo.it/img/app-plus-icon-2.png” group-title=”ITALY”, (DOUBTFUL) Il Meteo.It Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1 tvg-logo=”https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg” group-title=”ITALY”, (ONLINE) QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1 tvg-logo=”http://www.tvdream.net/immagini/superj.jpg” group-title=”ITALY”, (ONLINE) Super J TV
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://storiaradiotv.it/LOGO%20NUOVA%20TELEABRUZZO.jpg” group-title=”ITALY”, (ONLINE) Teleabruzzo TV
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.telefoggiatv.it/images/share-image.jpg” group-title=”ITALY”, (ONLINE) Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1 tvg-logo=”http://beyondprod.it/images/telefriuli_positivo.jpg” group-title=”ITALY”, (ONLINE) Telefriuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/Q7Gj1rG.jpg” group-title=”ITALY”, (ONLINE) Telemonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/Q7Gj1rG.jpg” group-title=”ITALY”, (ONLINE) Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png” group-title=”ITALY”, (ONLINE) Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png” group-title=”ITALY”, (ONLINE) Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.italianews24.it/public/tv/Televomero.jpg” group-title=”ITALY”, (ONLINE) Televomero Campania
+http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://s32.postimg.org/5fmicyl3p/SBT1.png” group-title=”BRAZIL”, (ONLINE) SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://s16.postimg.org/4rt4ter79/TV_INES.png” group-title=”BRAZIL”, (ONLINE) TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:-1 tvg-logo=”https://www.diariodesevilla.es/resources/images/0001688255.jpg” group-title=”SPAIN”, (ONLINE) La Banda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF:-1 tvg-logo=”http://www.crtvg.es/files/web/20170619205043_CanalInfantil.png” group-title=”SPAIN”, (ONLINE) TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/AlG8pAu.png” group-title=”MEXICO”, (ONLINE) Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/Z1PEZg2.png” group-title=”MEXICO”, (ONLINE) Trecevision Yucatan
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/qgoI0S9.png” group-title=”ARGENTINA”, (ONLINE) ATB TV
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://www.cadenasudeste.com/images/logo-cadena.png” group-title=”ARGENTINA”, (ONLINE) Cadena Sudeste TV
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://www.cn247.tv/img/logo.png” group-title=”ARGENTINA”, (ONLINE) CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/9wwq64s.jpg” group-title=”ARGENTINA”, (ONLINE) Radio del Aire 89.5 FM La Plata
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/Y0jMZpT.jpg” group-title=”CHILE”, (ONLINE) AE Radio Concepcion
+http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/LHn9ofg.png” group-title=”CHILE”, (ONLINE) Contivision Constitucion
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://radioytvchile.com/wp-content/uploads/2017/11/WsluQPH.png” group-title=”CHILE”, (ONLINE) Desierto TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif” group-title=”CHILE”, (ONLINE) Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png” group-title=”CHILE”, (ONLINE) Radio Camila
+http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/JNHFaNP.png” group-title=”CHILE”, (ONLINE) Radio Polar
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://www.soberaniaradio.cl/site/images/logo2016.png” group-title=”CHILE”, (ONLINE) Soberania TV
+http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”https://www.tvr.cl/wp-content/uploads/2018/02/logo.jpg” group-title=”CHILE”, (ONLINE) TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://www.ufromedios.cl/wp-content/uploads/2015/06/medios_02.png” group-title=”CHILE”, (ONLINE) Ufrovision
+http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=”http://66.240.236.25/lasupertv/mobile/play.jpg” group-title=”COLOMBIA”, (ONLINE) La Super TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:-1 tvg-logo=”http://carivision.online/wp-content/uploads/2017/10/unnamed-17.png” group-title=”Without category”, (ONLINE) Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CINE: EUROCHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/%20index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/skLKmML.png” group-title=”URUGUAY”, (ONLINE) Canal-M | HD
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/tMrDZ6b.png” group-title=”NOTICIAS”, (DOUBTFUL) Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV Europe | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV Asia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV Politics Live Event | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV US Live Event | HD
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV EMEA Live Event | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/5Nd9z70.png” group-title=”NOTICIAS”, (ONLINE) Bloomberg TV Asia Live Event | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/hov1cKZ.png” group-title=”NOTICIAS”, (ONLINE) TV5 Monde Info | FHD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/wRYAQ24.png” group-title=”NOTICIAS”, (ONLINE) NHK World (Alt)| HD
+http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/Eqpww5i.png” group-title=”PERU”, (ONLINE) Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/OKXbIr9.png” group-title=”ESPAÑA”, (ONLINE) Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/TXHdLeZ.png” group-title=”ESPAÑA”, (ONLINE) Canal 4 Tenerife | SD
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/YqW3o4z.png” group-title=”COSTA RICA”, (ONLINE) TV Sur | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/MCGNAMK.png” group-title=”MUSICA”, (ONLINE) Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/OXgDjwN.png” group-title=”MUSICA”, (ONLINE) Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/63s1k43.png” group-title=”MUSICA”, (ONLINE) Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/multimedios.png” group-title=”Entretenimiento”, (ONLINE) Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/multimedios.png” group-title=”Entretenimiento”, (ONLINE) Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/multimedios.png” group-title=”Entretenimiento”, (ONLINE) Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/multimedios.png” group-title=”Entretenimiento”, (ONLINE) Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/cbtv_m.png” group-title=”Entretenimiento”, (ONLINE) CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/multivision.png” group-title=”Entretenimiento”, (ONLINE) Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Entretenimiento”, (ONLINE) Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Entretenimiento”, (ONLINE) MiamiTV Internacional
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Entretenimiento”, (ONLINE) Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:-1 tvg-logo=”http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png” group-title=”Entretenimiento”, (ONLINE) TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1 tvg-logo=”http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png” group-title=”Cine”, (ONLINE) Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Musica”, (ONLINE) TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/musictop.png” group-title=”Musica”, (ONLINE) Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-logo=”https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg” group-title=”Musica”, (ONLINE) Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+#EXTINF:-1 tvg-logo=”https://advancescreenings.com/img/outlets/c/california_music_channel.jpg” group-title=”Musica”, (ONLINE) California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Musica”, (DOUBTFUL) Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png” group-title=”Musica”, (ONLINE) Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Cultura”, (ONLINE) SRTV Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Noticias”, (ONLINE) SRTV Noticias
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/.m3u8?DVR
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/abc.png” group-title=”Internacional”, (ONLINE) ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/nhkworld.png” group-title=”Internacional”, (ONLINE) NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/digi24.png” group-title=”Internacional”, (ONLINE) Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/” group-title=”Internacional”, (ONLINE) Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/earthcam.png” group-title=”Internacional”, (ONLINE) EarthCam Times Ware
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/earthcam.png” group-title=”Internacional”, (ONLINE) EarthCam Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/earthcam.png” group-title=”Internacional”, (ONLINE) EarthCam South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+#EXTINF:-1 tvg-logo=”http://photocall.tv/images/munchen.png” group-title=”Internacional”, (ONLINE) Munchen TV (Alemania)
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Internacional”, (ONLINE) AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELE RED RETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) DISTRITO COMEDIA
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) UNICABLE
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ATRES_SERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Canal 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1 tvg-logo=”http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png” group-title=”Without category”, (ONLINE) Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SPAIN:Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Nacional:Televisión Rionegrina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) DOMINICANA:CANAL 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TV CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL CAPITAL
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) CANAL DIPUTADOS
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:TVE Bahia
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:TV Brasil Animada
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) BRAZIL:TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MEXICO:RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) ARGENTINA:America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Del Aire
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) Canal U CORDOBA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (DOUBTFUL) AR:LU82 Canal 10 – 43.1TV – Mar del Plata TV – BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) MLB TV
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+#EXTINF:-1 tvg-logo=”https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg” group-title=”MOVIES”, (DOUBTFUL) Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 tvg-logo=”https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg” group-title=”MOVIES”, (ONLINE) Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+#EXTINF:-1 tvg-logo=”http://fdzeta.com/subir/images/jLGYP.jpg” group-title=”Without category”, (DOUBTFUL) Todo Poderoso |
+https://bit.ly/2GajoTS
+#EXTINF:-1 tvg-logo=”http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg” group-title=”Without category”, (DOUBTFUL) American Pie |
+https://bit.ly/2KS5ucG
+#EXTINF:-1 tvg-logo=”https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg” group-title=”Without category”, (DOUBTFUL) La Leyenda de la Nahuala |
+https://bit.ly/2wBzaYz
+#EXTINF:-1 tvg-logo=”https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg” group-title=”Without category”, (DOUBTFUL) Que Culpa Tiene el Nino |
+https://bit.ly/2wBG4x8
+#EXTINF:-1 tvg-logo=”http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg” group-title=”Without category”, (DOUBTFUL) SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 tvg-logo=”http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg” group-title=”Without category”, (DOUBTFUL) Guardianes de la Galaxia | SRREGIO.NET
+https://goo.gl/sFaEVq
+#EXTINF:-1 tvg-logo=”http://127.0.0.1/” group-title=”Without category”, (ONLINE) Chileiptv:La Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+
+
